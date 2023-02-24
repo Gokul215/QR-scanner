@@ -13,7 +13,7 @@ let minutes = date_ob.getMinutes();
 
 let seconds = date_ob.getSeconds();
 
-console.log(year + "-" + month + "-" + date + " " + hours + ":" + minutes + ":" + seconds);
+console.log(year + "-" + month + "-" + date + "is " + hours + ":" + minutes + ":" + seconds);
 
 let data = {
 	
